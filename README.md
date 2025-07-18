@@ -82,5 +82,5 @@ This project is published under [MIT License][license].
 [lib]: https://github.com/cotes2020/chirpy-static-assets
 [vscode]: https://code.visualstudio.com/
 [jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+
 # trigger build
-🚀 自动部署触发于 Sat Jul 12 00:06:18 CST 2025
