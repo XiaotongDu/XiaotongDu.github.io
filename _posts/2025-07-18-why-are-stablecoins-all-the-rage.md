@@ -6,7 +6,7 @@ tags: [stablecoins, fintech, blockchain]     # TAG names should always be lowerc
 description: "For traditional banks, the stablecoin race is a business contest they can’t afford to fall behind in; for nations, it’s a geopolitical battle for future monetary control — quiet, but fierce."
 ---
 
-*Stablecoins, launched over a decade ago and long hiding in a regulatory gray area, have suddenly become the new obsession for global financial giants.*
+Stablecoins, launched over a decade ago and long hiding in a regulatory gray area, have suddenly become the new obsession for global financial giants.
 
 JPMorgan Chase CEO Jamie Dimon said Tuesday that the bank will be involved in both its deposit coin and stablecoins. Dimon admitted that he still doesn't get the appeal of stablecoins, but he also cannot afford to stay on the sidelines as fintech competitors gain ground.
 
