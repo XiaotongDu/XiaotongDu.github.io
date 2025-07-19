@@ -18,5 +18,5 @@ This blog is my notebook for observing Chinese society. Here you’ll find:
 
 I believe when data meets narrative, we would come closer to understanding the complexity of our world.
 
-If you're also interested in stories from and about China, I'd love to hear from you. Feel free to reach me at [Gmail](dxt1996txd@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/xiaotong-du-879b43146).
+If you're also interested in stories from and about China, I'd love to hear from you. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/xiaotong-du-879b43146).
 
