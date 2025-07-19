@@ -6,7 +6,7 @@ order: 4
 
 Hi, I’m Xiaotong Du, a journalist from China.
 
-I report on hot topics such as the evolving dynamics of U.S.-China relations and financial systemic risks, and also care about the fault lines of society such as the often-overlooked tensions between tradition and modernity, from cultural heritage to feminism ideologies.
+I report on hot topics such as the evolving dynamics of U.S.-China relations and financial systemic risks, and also care about the fault lines of society, such as the often-overlooked tensions between tradition and modernity, from cultural heritage to feminism ideologies.
 
 This blog is my notebook for observing Chinese society. Here you’ll find:
 
