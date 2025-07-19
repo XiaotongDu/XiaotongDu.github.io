@@ -14,9 +14,7 @@ Citigroup, Bank of America, and other major financial institutions have also dis
 
 This global stablecoin race was sparked by legislative pushes in the world's two largest economies, China and the United States.  
 
-Last month, spurred by sustained calls from President Trump, the U.S. Senate passed the GENIUS Act (*2025 U.S. Stablecoin Guidance and Innovation Act*) with a vote of 68-30.  
-
-Just days earlier, Hong Kong enacted the world's first full-spectrum regulatory framework for fiat-backed stablecoins, via its newly passed Stablecoin Bill.  
+Last month, spurred by sustained calls from President Trump, the U.S. Senate passed the GENIUS Act (*”2025 U.S. Stablecoin Guidance and Innovation Act“*) with a vote of 68-30. Just days before that, Hong Kong enacted the world's first full-spectrum regulatory framework for fiat-backed stablecoins, via its newly passed Stablecoin Bill.  
 
 Countries including the U.K., Singapore, Japan, South Korea, Australia, and India also announced plans to introduce similar legislation, signaling an accelerated wave of institutional adoption worldwide.  
 
@@ -50,8 +48,6 @@ As of mid-2025, the global stablecoin supply has reached nearly $250 billion, wi
 
 Citigroup estimates that by 2025, stablecoin issuers will hold approximately $120 billion in U.S. debt. With regulation loosening and issuance growing, that figure could swell to $3.7 trillion by 2030, exponentially increasing U.S. Treasury demand.
 
-U.S. Treasury Secretary Janet Yellen stated at the March 2025 Digital Assets Summit that the administration will utilize stablecoins to maintain the dollar's global dominance.
-
 On the other hand, stablecoins also present an opportunity to challenge the dollar's supremacy for countries like China.  
 
 Wang Yang, Vice President of the Hong Kong University of Science and Technology, and Bai Liang, CEO of ZeroOne Think Tank, co-authored an article stating that stablecoins support peer-to-peer, instant settlement transactions that bypass U.S.-dominated systems, such as SWIFT and CHIPS, offering a technological path to sidestep dollar control and U.S. sanctions.
@@ -67,5 +63,3 @@ Even Tether's USDT, the world's largest stablecoin, faces scrutiny over its asse
 As the BBC reported, economics professor He Guojun of HKU explains that the stability of stablecoins depends on the quality and transparency of their reserves, and that if reserves are reduced or insufficiently disclosed, panic could spread quickly, leading to a loss of trust and a run on the market. 
 
 He says the future market could be tiered, with stablecoins linked to strong currencies likely to be widely used, and less trustworthy and opaque stablecoins becoming speculative tokens and breeding fraud.
-
-The Beijing Internet Finance Association recently issued a public alert, cautioning that some individuals are abusing blockchain buzzwords to lure investors into high-yield "stablecoin" projects, raising the risk of widespread financial fraud.
