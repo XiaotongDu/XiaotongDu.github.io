@@ -8,15 +8,13 @@ description: "For traditional banks, the stablecoin race is a business contest t
 
 Stablecoins, launched over a decade ago and long hiding in a regulatory gray area, have suddenly become the new obsession for global financial giants.
 
-JPMorgan Chase CEO Jamie Dimon said Tuesday that the bank will be involved in both its deposit coin and stablecoins. Dimon admitted that he still doesn't get the appeal of stablecoins, but he also cannot afford to stay on the sidelines as fintech competitors gain ground.
+JPMorgan Chase CEO Jamie Dimon said Tuesday that the bank will be involved in both its deposit coin and stablecoins. While he still doesn't get the appeal of stablecoins, Dimon admitted that he cannot afford to stay on the sidelines as fintech competitors gain ground.
 
-Citigroup, Bank of America, and other major financial institutions have also disclosed that issuing stablecoins is now on their strategic agenda. Meanwhile, China's leading fintech firms, Ant Group and JD Digits, have announced plans to apply for stablecoin licenses.
+Citigroup, Bank of America, and other major financial institutions have also disclosed that issuing stablecoins is now on their strategic agenda. Meanwhile, China's leading fintech companies, Ant Group and JD Digits, have announced plans to apply for stablecoin licenses.
 
 This global stablecoin race was sparked by legislative pushes in the world's two largest economies, China and the United States.  
 
 Last month, spurred by sustained calls from President Trump, the U.S. Senate passed the GENIUS Act (*”2025 U.S. Stablecoin Guidance and Innovation Act“*) with a vote of 68-30. Just days before that, Hong Kong enacted the world's first full-spectrum regulatory framework for fiat-backed stablecoins, via its newly passed Stablecoin Bill.  
-
-Countries including the U.K., Singapore, Japan, South Korea, Australia, and India also announced plans to introduce similar legislation, signaling an accelerated wave of institutional adoption worldwide.  
 
 So, what exactly are stablecoins? Why are the U.S. and China racing to regulate them? What are their real-world applications, and what risks might they bring?
 
@@ -24,17 +22,13 @@ So, what exactly are stablecoins? Why are the U.S. and China racing to regulate 
 
 Stablecoins first appeared in 2014 but initially attracted little attention. Their rise was fueled by the extreme price volatility of other cryptocurrencies, such as Bitcoin, which led to growing demand for a more stable digital asset.  
 
-By being pegged to a fiat currency, such as the U.S. dollar, stablecoins offer greater price stability. They combine the decentralized, efficient, and programmable nature of blockchain technology with stable value, securing a growing role in emerging markets, cross-border transactions, and the rapidly expanding digital nomad economy.
+By being pegged to a fiat currency, such as the U.S. dollar, stablecoins offer better price stability. They combine the decentralized, efficient, and programmable nature of blockchain technology with stable value, securing a growing role in emerging markets, cross-border transactions, and the rapidly expanding digital nomad economy.
 
 Traditional cross-border transfers using traditional banking systems typically incur fees of 6.35–6.5% and take 3–5 business days to process. In contrast, stablecoins offer a significantly cheaper and faster alternative, with transaction costs as low as $1 and near-instant settlement.
 
 In countries plagued by economic instability, ordinary citizens treat stablecoins as readily accessible "digital dollars."  
 
-An Argentine interviewed by Blockbeats recalled storing dollars in glass jars, shoeboxes, and ceiling panels during his childhood. Today, with exchanging pesos for dollars both difficult and risky, many have turned to stablecoins as a safer alternative.
-
-In 2023, Argentina experienced a staggering 211% inflation rate, while the peso lost 74% of its value against the US dollar. In this environment, stablecoins became a "haven" amid currency collapse, nearly 10% of Argentinians use stablecoins monthly, with peak user engagement reaching 25%.
-
-Moreover, developed countries are also embracing stablecoin payments. More merchants in the U.S., Singapore, and Europe start to accept them in-store. Institutions such as the U.S. Department of Housing and Urban Development, schools in the U.K., and the U.N.'s World Food Programme have piloted the use of stablecoins to distribute aid and make payments.
+For example, an Argentine interviewed by Blockbeats recalled how, during his childhood, people stored dollars in glass jars, shoeboxes, and ceiling panels to guard against inflation. Today, with access to U.S. dollars harder and riskier, stablecoins have become a digital safe haven — nearly 10% of Argentinians now use them each month.
 
 **A New Front in the Currency Wars?**
 
@@ -54,7 +48,7 @@ Wang Yang, Vice President of the Hong Kong University of Science and Technology,
 
 **What Risks Lie Ahead?**
 
-However, stablecoin adoption brings mounting risks. China Economic Weekly warns of four major concerns: reserve shortfalls leading to redemption failures, smart contract vulnerabilities, diminished national monetary control, and increased difficulties in AML and combating illicit finance.
+However, stablecoin adoption also brings mounting risks. China Economic Weekly warns of four major concerns: reserve shortfalls leading to redemption failures, smart contract vulnerabilities, diminished national monetary control, and increased difficulties in AML and combating illicit finance.
 
 In March 2023, when Silicon Valley Bank collapsed, the stablecoin USDC's issuer, Circle, revealed that approximately $3.3 billion (8% of its reserves) was held at the bank, causing USDC to briefly "de-peg" to $0.88, highlighting its vulnerability to issuer bank risk.
 
